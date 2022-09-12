@@ -8,7 +8,7 @@
          <p style="font-size:48px;">Yoav Zemel</p>    
 
      <span property="dc:title" content=" Yoav Zemel" class="rdf-meta element-hidden"></span>
-  <div class="field field-name-field-portrait field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="campl-scale-with-grid" src="https://www.dpmms.cam.ac.uk/files/styles/portrait/public/portraits/yz668.jpg?itok=gwzat5Ci" width="150" height="200" /></div></div></div>
+  <div class="field field-name-field-portrait field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="campl-scale-with-grid" src="oberwolfach.jpg" width="150" height="200" /></div></div></div>
       <div class="content campl-content-container">
       
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="tex2jax"><div class="tex2jax">
@@ -91,10 +91,12 @@ Discussion on <a class="link-extern" href="https://rss.onlinelibrary.wiley.com/d
   <em>Journal of the Royal Statistical Society, Series B</em> <strong>82</strong>(2):316  </p>
 <p> </p>
 <h2><font><a name="t">Teaching</a></font></h2>
+        <p> September 2018: <em>Stochastisches Praktikum</em>, an R lab course for 3rd year B.Sc. students, G\"ottingen, Germany</p>
 <p> Lent 2020: <a href="tst/tst.html" rel="noreferrer noopener" target="_blank">Topics in Statistical Theory</a></p>
-<p> February 2021: <a href="cuso.html" rel="noreferrer noopener" target="_blank">Short course: Introduction to optimal transport in statistics</a> at the Swiss Doctoral School in Statistics and Applied Probability</p>
-
-
+<p> February 2021: Short course on optimal transport at the Swiss Doctoral School in Statistics and Applied Probability (online)</p>
+<p> September 2022: Short course on optimal transport at YES workshop, Eindhoven, the Netherlands</p>
+<p> Fall 2022: Probability and statistics for civil and and material and science engineering</p>
+        <p> Spring 2023: Statistics for mathematicians</p>
 </div></div></div></div>    </div></div>
       </body>
 </html>
